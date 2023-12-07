@@ -34,4 +34,5 @@ Further analyses could yield additional insights to ……
 ## For More Information
 See the full analysis in the Jupyter Notebook or review this presentation. 
 For additional info, contact____ at ______@gmail.com.
+https://public.tableau.com/app/profile/john.streaman/viz/Phase1ProjectTableauDashboard/Dashboard1?publish=yes
  Repository Structure
