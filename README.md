@@ -17,21 +17,25 @@ This analysis centers on aviation accidents within the United States and interna
 ## Methods
 This project uses descriptive analysis, comparative analysis, and visualizations to draw conclusions from the aviation accidents data.
 
-## Results 
+# Results 
 
 ## Conclusions
 
 This analysis yields three actionable recommendations for your business to review:
-One
-Two
-Three 
+1. Invest in Boeing airplanes
+   - Lowest ratio of accidents to events
+   - A lower chance of both injury and fatality when flying. 
+2. Any Boeing model except for model 737. 
+   - If we invest, we need to consider the following:
+      - Boeing is the only outlier with more mechanical error than human error.
+      - There needs to be an investment on a high quality maintenance team.
+3. Commercial aircraft over private
+   - Most accidents occur on smaller private aircrafts (one-engine/reciprocating engine).
+   - i.e. Cessna (High human errors with insufficient safety measures)
 
-
-## Next Steps 
-
-Further analyses could yield additional insights to ……
 
 ## For More Information
 See the full analysis in the Jupyter Notebook or review this presentation. 
-For additional info, contact____ at ______@gmail.com.
- Repository Structure
+For additional info, contact Nechama Borisute at nechama907@gmail.com.
+
+https://public.tableau.com/app/profile/john.streaman/viz/Phase1ProjectTableauDashboard/Dashboard1?publish=yes
