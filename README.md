@@ -39,3 +39,7 @@ See the full analysis in the Jupyter Notebook or review this presentation.
 For additional info, contact Nechama Borisute at nechama907@gmail.com.
 
 https://public.tableau.com/app/profile/john.streaman/viz/Phase1ProjectTableauDashboard/Dashboard1?publish=yes
+
+https://raw.githubusercontent.com/julieleung6/Project-1/main/Aviation_Accident_Analysis.ipynb
+
+https://raw.githubusercontent.com/julieleung6/Project-1/main/Aviation_Exploratory_Notebook.ipynb
