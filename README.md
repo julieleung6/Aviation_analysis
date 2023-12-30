@@ -36,7 +36,7 @@ This analysis yields three actionable recommendations for your business to revie
 
 ## For More Information
 See the full analysis in the Jupyter Notebook or review this presentation. 
-For additional info, contact Nechama Borisute at nechama907@gmail.com.
+For additional info, contact Nechama Borisute at nechama907@gmail.com or Julie Leung at julieleung918@gmail.com.
 
 https://public.tableau.com/app/profile/john.streaman/viz/Phase1ProjectTableauDashboard/Dashboard1?publish=yes
 
